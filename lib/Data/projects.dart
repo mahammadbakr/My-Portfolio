@@ -13,7 +13,7 @@ List<Project> PROJECTS = [
   Project(
     name: 'Doctor Nore',
     description:
-        'It is Android & IOS application for a known youtube channel named Kurdnet, It fetch and update each YouTube videos in that Application and also it easier for functions may their fans interact with it is channel videos.',
+        'New Application for appointments while ask to see a doctor...',
     image: 'images/drNoreApp.png',
     url: 'https://play.google.com/store/apps/details?id=org.omran.android',
     skills: [
@@ -38,26 +38,6 @@ List<Project> PROJECTS = [
       'Youtube Api',
       'Ads',
       'Admin Panel',
-      'Git',
-    ],
-  ),
-  Project(
-    name: 'Nawras App',
-    description: 'I developed Twos Mobile Applications (User + Manager) With a Company Which Contains Markets & Sale person Authentication, google maps + routing , push notifications, local storage, ordering ... etc,',
-    image: 'images/nawrasApp.png',
-    url:
-    'https://drive.google.com/file/d/1JrgHzULyo0kzc2PNaZIrHrOTd62SuJIv/view?usp=sharing',
-    skills: [
-      'Dart',
-      'Flutter',
-      'Full Authentications',
-      'API\'s ',
-      'Google Maps ',
-      'Google API\'s ',
-      'Shared Preferences',
-      'SQL',
-      'FCM',
-      'Push Notifications',
       'Git',
     ],
   ),
